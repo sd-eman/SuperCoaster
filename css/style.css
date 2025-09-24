@@ -8,12 +8,15 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    gap: 20px;
 }
 main img{
     width: 250px;
     height: auto;
+    border-radius: 5px;
 }
 main{
+    margin-top: 50px;
     display: flex;
     justify-content: center;
 }
