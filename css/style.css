@@ -4,7 +4,7 @@
     text-align: center;
 }
 
-.fotos{
+.photos{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -62,9 +62,6 @@ nav a{
 .logo-img{
     width: 80px;
 }
-
-
-
 
 footer{
     width:100%;
